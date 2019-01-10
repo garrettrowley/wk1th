@@ -13,3 +13,15 @@ a:hover  {
   color: white;
   text-decoration: none;
 }
+h2{
+  text-align: center;
+}
+h3  {
+  text-align: center;
+}
+.dates  {
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 5px;
+  font-family: monospace;
+}
